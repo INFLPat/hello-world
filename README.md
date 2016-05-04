@@ -1,4 +1,1 @@
-# hello-world
-Optional
-
-Editable.
+DELETEABLE!
